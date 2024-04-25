@@ -1,0 +1,8 @@
+normalization
+trigger
+wildcard
+selfjoin
+Iaas
+scrum
+sdlc
+selenium
